@@ -1,4 +1,4 @@
-# ShapeAI_Vajja_Prudhvi1
+https://github.com/shapeai">GitHub# ShapeAI_Vajja_Prudhvi1
 SHAPEAI PYTHON AND DEEP LEARNING BOOTCAMP
 
 Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
